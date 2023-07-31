@@ -1,0 +1,1 @@
+// export const ONBOARDING1 = require('../assets/Icons/firstBoarding.png');
