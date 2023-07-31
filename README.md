@@ -11,6 +11,11 @@ This project demonstrates how to implement Firebase Email and Password Authentic
 3)Authentication State Management: The app efficiently manages the user's authentication state, allowing access to specific features only to authenticated users and redirecting unauthenticated users to the sign-in screen.
 4)Error Handling: Proper error handling is implemented to handle cases like incorrect passwords, invalid email addresses, network errors, etc.
 
+## ScreenShots
+![WhatsApp Image 2023-07-31 at 5 36 19 PM](https://github.com/Aryansharma07/extern_test_02/assets/125373582/150cab3f-aaee-49dc-8b05-96c2f8672494)
+![WhatsApp Image 2023-07-31 at 5 36 19 PM (1)](https://github.com/Aryansharma07/extern_test_02/assets/125373582/cccf8a04-79cc-44e2-bfb9-ff42a935000b)
+![WhatsApp Image 2023-07-31 at 5 36 20 PM](https://github.com/Aryansharma07/extern_test_02/assets/125373582/fbd6f43c-7aec-43bd-bc65-214411f4d0b7)
+
 ## Installation
 
 Follow these steps to get the development environment running:
